@@ -2,8 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://localhost:4000
-#url: http://yoursite.com
+#url: http://localhost:4000
+url: https://www.mrcozzens.org
 title: Mr Cozzens
 email: 
 author: Mr Cozzens
